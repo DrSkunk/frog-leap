@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frog-leap/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/frog-leap/static/js/main.8c353628.chunk.js",
-    "main.js.map": "/frog-leap/static/js/main.8c353628.chunk.js.map",
+    "main.js": "/frog-leap/static/js/main.fd454358.chunk.js",
+    "main.js.map": "/frog-leap/static/js/main.fd454358.chunk.js.map",
     "runtime-main.js": "/frog-leap/static/js/runtime-main.8d613f67.js",
     "runtime-main.js.map": "/frog-leap/static/js/runtime-main.8d613f67.js.map",
     "static/js/2.3433989f.chunk.js": "/frog-leap/static/js/2.3433989f.chunk.js",
     "static/js/2.3433989f.chunk.js.map": "/frog-leap/static/js/2.3433989f.chunk.js.map",
     "index.html": "/frog-leap/index.html",
-    "precache-manifest.9f9abf1c7e05d473239b7ff260ba64ca.js": "/frog-leap/precache-manifest.9f9abf1c7e05d473239b7ff260ba64ca.js",
+    "precache-manifest.79507283077e4fb7582d5f618eba4fef.js": "/frog-leap/precache-manifest.79507283077e4fb7582d5f618eba4fef.js",
     "service-worker.js": "/frog-leap/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/frog-leap/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.3433989f.chunk.js.LICENSE.txt": "/frog-leap/static/js/2.3433989f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8d613f67.js",
     "static/js/2.3433989f.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8c353628.chunk.js"
+    "static/js/main.fd454358.chunk.js"
   ]
 }

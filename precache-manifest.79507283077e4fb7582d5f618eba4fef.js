@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2833387a3d5f252ff6aa8bdd9297be31",
+    "revision": "d32eb0749280d74eb9823d0ab20e0b74",
     "url": "/frog-leap/index.html"
   },
   {
-    "revision": "d55d4d2c541dfe41ccd1",
+    "revision": "036faaa3bb2e729ed29c",
     "url": "/frog-leap/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frog-leap/static/js/2.3433989f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d55d4d2c541dfe41ccd1",
-    "url": "/frog-leap/static/js/main.8c353628.chunk.js"
+    "revision": "036faaa3bb2e729ed29c",
+    "url": "/frog-leap/static/js/main.fd454358.chunk.js"
   },
   {
     "revision": "e3b5e66124e31ceaa4ac",
