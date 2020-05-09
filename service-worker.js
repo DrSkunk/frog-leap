@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frog-leap/precache-manifest.79507283077e4fb7582d5f618eba4fef.js"
+  "/frog-leap/precache-manifest.44f787e20c9445094bbfd5cf172c1af0.js"
 );
 
 self.addEventListener('message', (event) => {
