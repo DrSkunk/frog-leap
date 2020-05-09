@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Assets from https://kids.niehs.nih.gov/games/brainteasers/frog-leap/index.htm
+
 ## Available Scripts
 
 In the project directory, you can run:
