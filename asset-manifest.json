@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/frog-leap/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/frog-leap/static/js/main.fd454358.chunk.js",
-    "main.js.map": "/frog-leap/static/js/main.fd454358.chunk.js.map",
-    "runtime-main.js": "/frog-leap/static/js/runtime-main.8d613f67.js",
-    "runtime-main.js.map": "/frog-leap/static/js/runtime-main.8d613f67.js.map",
-    "static/js/2.3433989f.chunk.js": "/frog-leap/static/js/2.3433989f.chunk.js",
-    "static/js/2.3433989f.chunk.js.map": "/frog-leap/static/js/2.3433989f.chunk.js.map",
+    "main.js": "/frog-leap/static/js/main.44a9c5fb.chunk.js",
+    "main.js.map": "/frog-leap/static/js/main.44a9c5fb.chunk.js.map",
+    "runtime-main.js": "/frog-leap/static/js/runtime-main.959a9840.js",
+    "runtime-main.js.map": "/frog-leap/static/js/runtime-main.959a9840.js.map",
+    "static/js/2.b7ede627.chunk.js": "/frog-leap/static/js/2.b7ede627.chunk.js",
+    "static/js/2.b7ede627.chunk.js.map": "/frog-leap/static/js/2.b7ede627.chunk.js.map",
     "index.html": "/frog-leap/index.html",
-    "precache-manifest.44f787e20c9445094bbfd5cf172c1af0.js": "/frog-leap/precache-manifest.44f787e20c9445094bbfd5cf172c1af0.js",
+    "precache-manifest.39bdd9f78efe0cd26348a634d9fc53f2.js": "/frog-leap/precache-manifest.39bdd9f78efe0cd26348a634d9fc53f2.js",
     "service-worker.js": "/frog-leap/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/frog-leap/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3433989f.chunk.js.LICENSE.txt": "/frog-leap/static/js/2.3433989f.chunk.js.LICENSE.txt"
+    "static/js/2.b7ede627.chunk.js.LICENSE.txt": "/frog-leap/static/js/2.b7ede627.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d613f67.js",
-    "static/js/2.3433989f.chunk.js",
+    "static/js/runtime-main.959a9840.js",
+    "static/js/2.b7ede627.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.fd454358.chunk.js"
+    "static/js/main.44a9c5fb.chunk.js"
   ]
 }
